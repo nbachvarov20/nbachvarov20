@@ -1,0 +1,36 @@
+   
+			body{
+            background-color: rgb(161, 161, 161);
+			font-family: monospace;
+			}
+			.stg{
+				font-size: 20px;
+				font-family: monospace;
+				color: black;
+			}
+			#middle{
+				margin: 0 auto;
+				width: 800px;
+				background-color: white;
+				justify-content: centered;
+				
+			}
+			h1{
+				font-family: Fantasy;
+				font-size: 40px;
+				color: Red;
+			}
+			#about{
+				text-align: center;
+				font-family: monospace;
+				font-size: 35;
+			}
+			th{
+				border: solid;
+			}
+			photo{
+				align: centered;
+			}
+			#header{
+				background-image: url("images/acs.jpg");
+				height: 200px;       
